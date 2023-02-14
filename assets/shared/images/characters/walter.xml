@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="walter.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Walt Left0000" x="50" y="50" width="1065" height="1400" frameX="0" frameY="-19" frameWidth="1065" frameHeight="1419"/>
+	<SubTexture name="Walt Left0001" x="1165" y="50" width="1038" height="1419" frameX="-21" frameY="0" frameWidth="1065" frameHeight="1419"/>
+	<SubTexture name="Walt Left0002" x="2253" y="50" width="1020" height="1413" frameX="-39" frameY="-6" frameWidth="1065" frameHeight="1419"/>
+	<SubTexture name="Walt Left0003" x="3323" y="50" width="989" height="1404" frameX="-70" frameY="-15" frameWidth="1065" frameHeight="1419"/>
+	<SubTexture name="Walt Left0004" x="4362" y="50" width="982" height="1404" frameX="-77" frameY="-15" frameWidth="1065" frameHeight="1419"/>
+	<SubTexture name="Walt Left0005" x="4362" y="50" width="982" height="1404" frameX="-77" frameY="-15" frameWidth="1065" frameHeight="1419"/>
+	<SubTexture name="Walt Left0006" x="4362" y="50" width="982" height="1404" frameX="-77" frameY="-15" frameWidth="1065" frameHeight="1419"/>
+	<SubTexture name="Walt Left0007" x="4362" y="50" width="982" height="1404" frameX="-77" frameY="-15" frameWidth="1065" frameHeight="1419"/>
+	<SubTexture name="Walt_Down0000" x="5394" y="50" width="1078" height="1272" frameX="0" frameY="-22" frameWidth="1078" frameHeight="1295"/>
+	<SubTexture name="Walt_Down0001" x="6522" y="50" width="1051" height="1282" frameX="-15" frameY="-13" frameWidth="1078" frameHeight="1295"/>
+	<SubTexture name="Walt_Down0002" x="50" y="1519" width="1048" height="1289" frameX="-15" frameY="-5" frameWidth="1078" frameHeight="1295"/>
+	<SubTexture name="Walt_Down0003" x="1148" y="1519" width="1048" height="1294" frameX="-15" frameY="0" frameWidth="1078" frameHeight="1295"/>
+	<SubTexture name="Walt_Down0004" x="1148" y="1519" width="1048" height="1294" frameX="-15" frameY="0" frameWidth="1078" frameHeight="1295"/>
+	<SubTexture name="Walt_Down0005" x="1148" y="1519" width="1048" height="1294" frameX="-15" frameY="0" frameWidth="1078" frameHeight="1295"/>
+	<SubTexture name="Walt_Down0006" x="1148" y="1519" width="1048" height="1294" frameX="-15" frameY="0" frameWidth="1078" frameHeight="1295"/>
+	<SubTexture name="Walt_Down0007" x="1148" y="1519" width="1048" height="1294" frameX="-15" frameY="0" frameWidth="1078" frameHeight="1295"/>
+	<SubTexture name="Walt_Idle0000" x="2246" y="1519" width="947" height="1307" frameX="0" frameY="-4" frameWidth="947" frameHeight="1311"/>
+	<SubTexture name="Walt_Idle0001" x="3243" y="1519" width="925" height="1306" frameX="-11" frameY="-5" frameWidth="947" frameHeight="1311"/>
+	<SubTexture name="Walt_Idle0002" x="4218" y="1519" width="915" height="1310" frameX="-16" frameY="0" frameWidth="947" frameHeight="1311"/>
+	<SubTexture name="Walt_Idle0003" x="5183" y="1519" width="907" height="1304" frameX="-20" frameY="-6" frameWidth="947" frameHeight="1311"/>
+	<SubTexture name="Walt_Idle0004" x="6140" y="1519" width="907" height="1304" frameX="-20" frameY="-6" frameWidth="947" frameHeight="1311"/>
+	<SubTexture name="Walt_Idle0005" x="7097" y="1519" width="907" height="1300" frameX="-20" frameY="-10" frameWidth="947" frameHeight="1311"/>
+	<SubTexture name="Walt_Idle0006" x="7097" y="1519" width="907" height="1300" frameX="-20" frameY="-10" frameWidth="947" frameHeight="1311"/>
+	<SubTexture name="Walt_Idle0007" x="7097" y="1519" width="907" height="1300" frameX="-20" frameY="-10" frameWidth="947" frameHeight="1311"/>
+	<SubTexture name="Walt_Idle0008" x="7097" y="1519" width="907" height="1300" frameX="-20" frameY="-10" frameWidth="947" frameHeight="1311"/>
+	<SubTexture name="Walt_Idle0009" x="7097" y="1519" width="907" height="1300" frameX="-20" frameY="-10" frameWidth="947" frameHeight="1311"/>
+	<SubTexture name="Walt_Idle0010" x="7097" y="1519" width="907" height="1300" frameX="-20" frameY="-10" frameWidth="947" frameHeight="1311"/>
+	<SubTexture name="Walt_Idle0011" x="7097" y="1519" width="907" height="1300" frameX="-20" frameY="-10" frameWidth="947" frameHeight="1311"/>
+	<SubTexture name="Walt_Right0000" x="50" y="2879" width="1160" height="1431" frameX="0" frameY="-17" frameWidth="1160" frameHeight="1448"/>
+	<SubTexture name="Walt_Right0001" x="1260" y="2879" width="1088" height="1442" frameX="-3" frameY="-6" frameWidth="1160" frameHeight="1448"/>
+	<SubTexture name="Walt_Right0002" x="2398" y="2879" width="1038" height="1442" frameX="-7" frameY="-6" frameWidth="1160" frameHeight="1448"/>
+	<SubTexture name="Walt_Right0003" x="3486" y="2879" width="1047" height="1442" frameX="-4" frameY="-6" frameWidth="1160" frameHeight="1448"/>
+	<SubTexture name="Walt_Right0004" x="4583" y="2879" width="1026" height="1448" frameX="-4" frameY="0" frameWidth="1160" frameHeight="1448"/>
+	<SubTexture name="Walt_Right0005" x="5659" y="2879" width="1044" height="1442" frameX="-4" frameY="-6" frameWidth="1160" frameHeight="1448"/>
+	<SubTexture name="Walt_Right0006" x="6753" y="2879" width="1024" height="1442" frameX="-4" frameY="-6" frameWidth="1160" frameHeight="1448"/>
+	<SubTexture name="Walt_Right0007" x="50" y="4377" width="1046" height="1442" frameX="-4" frameY="-6" frameWidth="1160" frameHeight="1448"/>
+	<SubTexture name="Walt_Right0008" x="1146" y="4377" width="1030" height="1442" frameX="-4" frameY="-6" frameWidth="1160" frameHeight="1448"/>
+	<SubTexture name="Walt_Up0000" x="2226" y="4377" width="805" height="1511" frameX="-18" frameY="0" frameWidth="840" frameHeight="1513"/>
+	<SubTexture name="Walt_Up0001" x="3081" y="4377" width="831" height="1495" frameX="-5" frameY="-18" frameWidth="840" frameHeight="1513"/>
+	<SubTexture name="Walt_Up0002" x="3962" y="4377" width="840" height="1481" frameX="0" frameY="-32" frameWidth="840" frameHeight="1513"/>
+	<SubTexture name="Walt_Up0003" x="4852" y="4377" width="840" height="1469" frameX="0" frameY="-44" frameWidth="840" frameHeight="1513"/>
+	<SubTexture name="Walt_Up0004" x="4852" y="4377" width="840" height="1469" frameX="0" frameY="-44" frameWidth="840" frameHeight="1513"/>
+	<SubTexture name="Walt_Up0005" x="4852" y="4377" width="840" height="1469" frameX="0" frameY="-44" frameWidth="840" frameHeight="1513"/>
+	<SubTexture name="Walt_Up0006" x="4852" y="4377" width="840" height="1469" frameX="0" frameY="-44" frameWidth="840" frameHeight="1513"/>
+	<SubTexture name="Walt_Up0007" x="4852" y="4377" width="840" height="1469" frameX="0" frameY="-44" frameWidth="840" frameHeight="1513"/>
+</TextureAtlas>

@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"???",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"???",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"???",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "soon",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Soon",
+	"weekName": "Episode 4",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "no lol",
+	"startUnlocked": false
+}

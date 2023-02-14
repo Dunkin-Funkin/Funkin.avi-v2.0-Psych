@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-square-NM.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="health icon0000" x="0" y="0" width="351" height="356"/>
+	<SubTexture name="health icon0001" x="351" y="0" width="351" height="356"/>
+	<SubTexture name="health icon0002" x="702" y="0" width="351" height="356"/>
+	<SubTexture name="health icon0003" x="1053" y="0" width="351" height="356"/>
+	<SubTexture name="health icon0004" x="1404" y="0" width="351" height="356"/>
+	<SubTexture name="health icon0005" x="0" y="356" width="351" height="356"/>
+	<SubTexture name="health icon0006" x="351" y="356" width="351" height="356"/>
+	<SubTexture name="health icon0007" x="702" y="356" width="351" height="356"/>
+	<SubTexture name="health icon0008" x="1053" y="356" width="351" height="356"/>
+	<SubTexture name="health icon0009" x="1404" y="356" width="351" height="356"/>
+	<SubTexture name="health icon0010" x="0" y="712" width="351" height="356"/>
+	<SubTexture name="health icon0011" x="351" y="712" width="351" height="356"/>
+	<SubTexture name="health icon0012" x="702" y="712" width="351" height="356"/>
+	<SubTexture name="health icon0013" x="1053" y="712" width="351" height="356"/>
+	<SubTexture name="health icon0014" x="1404" y="712" width="351" height="356"/>
+	<SubTexture name="health icon0015" x="0" y="1068" width="351" height="356"/>
+	<SubTexture name="health icon0016" x="351" y="1068" width="351" height="356"/>
+</TextureAtlas>

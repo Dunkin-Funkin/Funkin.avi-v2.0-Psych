@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				-30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FuckingSquare Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				257,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FuckingSquare Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				395,
+				149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FuckingSquare Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FuckingSquare",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 17,
+	"scale": 1
+}

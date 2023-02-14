@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "street",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Isolated",
+			"mickey",
+			[
+				60,
+				60,
+				60
+			]
+		],
+		[
+			"Lunacy",
+			"lunamick",
+			[
+				60,
+				60,
+				60
+			]
+		],
+		[
+			"Delusional",
+			"insanemick",
+			[
+				60,
+				60,
+				60
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Freeplay"
+}

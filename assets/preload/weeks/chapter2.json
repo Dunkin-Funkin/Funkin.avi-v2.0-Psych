@@ -1,0 +1,50 @@
+{
+	"storyName": "Smile...",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "smile",
+	"weekBefore": "chapter1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"4th Song",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Facade",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Twisted Grins",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Episode 2"
+}
